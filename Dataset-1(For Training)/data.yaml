@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 20
+names: ['Coca Cola', 'Coca Cola - Marvel', 'Coca Cola Plus', 'Coca Cola Zero', 'Coolberg', 'Hell Apple', 'Hell Classic', 'Monster Aussie Lemonade', 'Monster LH44', 'Monster Mango Loco', 'Nescafe Classic Iced Latte', 'Pepsi Retro', 'Predator', 'Prime - Shitass', 'Redbul', 'Redbull DanceYourStyle', 'Redbull Summer Edition', 'Redbull Yellow Edition', 'Schweppes', 'White Monster']

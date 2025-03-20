@@ -1,0 +1,20 @@
+Class,Instances,Precision (P),Recall (R),mAP50,mAP50-95
+Coca Cola,6,0.565,0.333,0.584,0.368
+Coca Cola - Marvel,7,0.865,1.0,0.995,0.737
+Coca Cola Plus,4,0.354,0.5,0.509,0.436
+Coca Cola Zero,1,0.939,1.0,0.995,0.597
+Hell Apple,6,0.768,0.5,0.692,0.554
+Hell Classic,4,0.557,0.25,0.682,0.489
+Monster Aussie Lemonade,3,0.819,1.0,0.995,0.808
+Monster LH44,2,0.828,1.0,0.995,0.895
+Monster Mango Loco,12,0.788,1.0,0.995,0.704
+Nescafe Classic Iced Latte,3,0.851,1.0,0.995,0.841
+Pepsi Retro,3,0.787,0.667,0.913,0.698
+Predator,3,0.86,1.0,0.995,0.841
+Prime - Shitass,6,1.0,0.819,0.995,0.825
+Redbull,4,0.297,1.0,0.845,0.651
+Redbull DanceYourStyle,7,1.0,0.674,0.814,0.609
+Redbull Summer Edition,3,0.707,1.0,0.995,0.638
+Redbull Yellow Edition,3,0.641,1.0,0.995,0.808
+Schweppes,7,0.963,1.0,0.995,0.696
+White Monster,7,0.82,0.714,0.836,0.639
