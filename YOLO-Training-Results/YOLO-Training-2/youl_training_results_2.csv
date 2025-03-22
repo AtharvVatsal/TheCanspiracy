@@ -1,0 +1,24 @@
+Class,Images,Instances,Box_P,R,mAP50,mAP50-95
+Coca Cola,4,6,1.0,0.383,0.62,0.316
+Coca Cola - Marvel,3,8,1.0,0.71,0.971,0.754
+Coca Cola Plus,18,18,0.899,0.991,0.932,0.779
+Coca Cola Zero,1,1,0.874,1.0,0.995,0.796
+Coolberg,4,4,0.971,1.0,0.995,0.865
+Hell Apple,9,9,0.89,0.444,0.817,0.585
+Hell Classic,7,7,1.0,0.336,0.964,0.644
+Monster Aussie Lemonade,8,8,0.946,0.875,0.955,0.8
+Monster LH44,14,14,0.955,1.0,0.995,0.825
+Monster Mango Loco,18,27,0.982,0.852,0.965,0.706
+Nescafe Classic Iced Latte,3,3,0.927,1.0,0.995,0.808
+Pepsi,7,7,0.968,1.0,0.995,0.884
+Pepsi Retro,9,9,0.979,0.778,0.827,0.672
+Predator,3,3,0.93,1.0,0.995,0.842
+Prime - Shitass,8,8,1.0,0.927,0.995,0.857
+Redbull,9,10,0.712,0.9,0.832,0.7
+Redbull DanceYourStyle,9,9,0.969,0.667,0.87,0.609
+Redbull Summer Edition,10,10,0.858,1.0,0.977,0.772
+Redbull Yellow Edition,4,4,0.798,1.0,0.995,0.76
+Schweppes,4,8,1.0,0.78,0.995,0.713
+Sprite,7,7,1.0,0.95,0.995,0.809
+Thums Up,11,11,0.916,0.997,0.965,0.779
+White Monster,9,10,1.0,0.816,0.978,0.701

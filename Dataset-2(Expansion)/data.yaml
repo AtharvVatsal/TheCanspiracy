@@ -1,0 +1,6 @@
+train: C:/Users/athar/Downloads/Can Classification.v3/train/images
+val: C:/Users/athar/Downloads/Can Classification.v3/valid/images
+test: C:/Users/athar/Downloads/Can Classification.v3/test/images
+
+nc: 24
+names: ['Coca Cola', 'Coca Cola - Marvel', 'Coca Cola Plus', 'Coca Cola Zero', 'Coolberg', 'Hell Apple', 'Hell Classic', 'Monster Aussie Lemonade', 'Monster LH44', 'Monster Mango Loco', 'Nescafe Classic Iced Latte', 'Pepsi', 'Pepsi Retro', 'Predator', 'Prime - Shitass', 'Prime -Shitass-', 'Redbul', 'Redbull DanceYourStyle', 'Redbull Summer Edition', 'Redbull Yellow Edition', 'Schweppes', 'Sprite', 'Thums Up', 'White Monster']
