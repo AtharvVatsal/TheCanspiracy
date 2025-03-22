@@ -20,7 +20,6 @@ for col in columns_to_convert:
         print(f"Warning: Column '{col}' not found in CSV")
 df = df[df["Class"] != "all"]
 
-# Set theme for seaborn
 sns.set_theme(style="whitegrid")
 
 # Sort data by mAP50
