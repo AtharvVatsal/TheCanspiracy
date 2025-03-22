@@ -1,6 +1,5 @@
 from ultralytics import YOLO
 import glob
-
 model = YOLO("best.pt")
 
 image_folder = "path/to/image"
