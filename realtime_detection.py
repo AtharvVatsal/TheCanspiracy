@@ -30,7 +30,6 @@ cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 1080)
 
 native_width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
 native_height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
-
 cv2.namedWindow("YOLOv8 Detection", cv2.WINDOW_NORMAL)
 cv2.resizeWindow("YOLOv8 Detection", native_width, native_height)
 
