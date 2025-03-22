@@ -26,6 +26,5 @@ for camera_index in range(10):
     cv2.destroyWindow(window_name)
     cap.release()
     
-    print(f"Camera {camera_index} test completed.")
-    
+    print(f"Camera {camera_index} test completed.") 
 print("\nAll camera tests completed.")
