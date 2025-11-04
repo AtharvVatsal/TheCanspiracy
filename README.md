@@ -51,8 +51,8 @@ YOLOv8-Object-Detection/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/YOLOv8-Object-Detection.git
-   cd YOLOv8-Object-Detection
+   git clone https://github.com/yourusername/TheCanspiracy.git
+   cd TheCanspiracy
    ```
 
 2. Install dependencies:
@@ -150,3 +150,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - [Ultralytics](https://github.com/ultralytics/ultralytics) for the YOLOv8 implementation
 - DroidCam for the mobile camera streaming capability
+
